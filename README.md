@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Lợi
 #### I am FrontEnd developer in Việt Nam. I really enjoy learning Frontend like React and NextJS
 
+[![](https://visitcount.itsvg.in/api?id=Loiphan1003&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ## Skills and Experience
 - <img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" alt="Alt Text" style="width: 16px; height: auto;" /> REACT
 
