@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Lợi
-#### I am FrontEnd developer in Việt Nam. I really enjoy learning Frontend like React and NextJS
+
+I am FrontEnd developer in Việt Nam. I really enjoy learning Frontend like React and NextJS
 
 [My porfolio page](https://porfolio-gules-kappa.vercel.app/)
 
